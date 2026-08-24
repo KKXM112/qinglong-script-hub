@@ -1,1 +1,5 @@
-x
+data/
+uploads/
+*.db
+*.db-journal
+.DS_Store
